@@ -1,0 +1,46 @@
+body
+{
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0 !important;
+}
+.warpper
+{
+    width: 100%;
+}
+.header
+{
+    width: 100%;
+}
+.content
+{
+    width: 1302px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.lobby
+{
+    width: 100%;
+    font-size: 64px;
+}
+.TreeLand
+{
+    width: 426px;
+    height: 240px;
+    float: left;
+    border: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    margin: 3px;
+}
+.text
+{
+    text-align: center;
+    margin-top: 17.5%;
+}
+a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
